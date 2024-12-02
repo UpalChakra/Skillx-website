@@ -1,0 +1,200 @@
+<html>
+<head>
+<title> SkillX</title>
+</head>
+<body>
+<header>
+	<table border="0" width="100%" cellspacing="0" bgcolor="blue">
+	<tr><td>
+	<table border="0" width="85%" align="center" cellpadding="10">
+	<tr>
+	<td>
+		<img src="file:///C:/Users/Administrator/Pictures/TgxTi8BF_400x400.jpg" height="80" width="80">
+	</td>
+	<td>
+		<font face="Open Sans" size="9" color="yellow"><b> JIS University</b></font>
+	</td>
+	<td width="20%"></td>
+	<td><a href="#"><font color="aqua">Home</font></a></td>
+	<td><a href="#"><font color="aqua">Campus</font></a></td>
+	<td><a href="#"><font color="aqua">JET Exam</font></a></td>
+	<td><a href="#"><font color="aqua">Course</font></a></td>
+	<td><a href="#"><font color="aqua">Contact us</font></a></font></td>
+	</td>
+	</tr>
+	</table>
+	</tr>
+	</table>
+	</header>
+<!---home--->
+	<table width="80%">
+	<tr>
+	<td>
+	<table width="120%" border="0" align="center">
+	<tr>
+	<td>
+		<h1>Hi</h1>
+		<h1>Welcome To JIS University</h1>
+		<font size="5">It's the Agarpara Campus of JIS University</font>
+	<hr width="100%" align="left" color="purple"></hr>
+	<a href="#"><button>Form</button></a>
+		<form>
+			<fieldset>
+				<legend>Resgistration Form</legend>
+				<label>Name:</label>
+				<input type="text" name="t1">
+<br><br>
+				 <label>Father's Name:</label>
+				<input type="text" name="t2">
+<br><br>
+				<label>Mother's Name:</label>
+				<input type="text" name="t3">
+<br><br>
+				<label>Moblie No:</label>
+				<input type="number" name="t4">
+<br><br>
+				<label>Email Id:</label>
+				<input type="text" name="t5">
+<br><br>
+				<label>Date Of Birth:</label>
+				<input type="Date" name="t6">
+<br><br>
+
+				<label>Address:</label>
+				<textarea rows="4" cols="5"></textarea>
+<br><br>
+				<label>Language Known:</label>	
+				<input type="checkbox" name="c1">English
+				<input type="checkbox" name="c2">Hindi
+				<input type="checkbox" name="c3">Bengali
+<br><br>
+				<label>Gender:</label>
+				<input type="radio" name="r1">Male
+				<input type="radio" name="r1">Female
+				<input type="radio" name="r1">Others
+<br><br>
+				<label>Nationality:</label>
+					<select>
+						<option>Indian</option>
+						<option>Others</option>
+					</select>
+<br><br>
+				<label>Madhyamik Marks:</label>
+				<input type="number" name="t7">
+<br><br>
+				<label>H.S Marks:</label>
+				<input type="number" name="t8">
+<br><br>
+			
+				<label>PWD:</label>
+				<input type="radio" name="r2">Yes
+				<input type="radio" name="r2">No
+<br><br>
+				<input type="submit" value="Submit" name="o1">
+				<input type="reset" value="Clear All" name="o1">
+			</fieldset>
+		</form>
+	<abbr title="Jodh Iswar Singh University"><i>JIS University</i></abbr>	
+	</td>
+	</table>
+	</td>	
+	</tr>
+	</table>
+<!---End Home--->
+
+<!---Campus--->
+	<table a>
+	<tr>
+	<td>
+	<table width="85%" border="0">
+	<tr>
+	<td>
+		<font size="6" align="left"><b>Pictures</b></font><br>
+		<hr>
+	</td>
+	</tr>
+	<tr>
+	<td>	
+		<img src="file:///C:/JIS%20University/campus-1.jpg" height="350" width="100%">
+		
+	</td>
+	<td>
+		<img src="file:///C:/Users/Administrator/Pictures/campus-2.jpg" height="350" width="100%">
+	</td>
+<br><br>
+	<td>
+		<img src="file:///C:/Users/Administrator/Pictures/DSC_1252.jpg" height="330" width="120%" align="center">
+		<figcaption><font size="4" color="purple" face="Cambia"><b> JIS University</b></font></figcaption>
+	</td>	
+	</tr>
+	</table>
+<!---End Campus--->
+<br><br><br>
+<!---JET Exam--->
+	<pr><u><b>About JIS University Entrance Test 2024 (JET 2024):</b></u>
+	For admission to the Undergraduate and Post Graduate courses offered by JIS University, you have to qualify in the JIS University Entrance Test (JET-2024).
+	This examination is conducted through ONLINE mode based on MCQ type test and can be taken by the students from anywhere. 
+	Under exceptional circumstances, <br>this online examination can also be given by physically reporting at the University campus at Agarpara, 
+	Kolkata as per pre-defined time slots with prior registration.
+	It is mandatory for a student seeking admission to JIS University to appear and qualify in the entrance test (JET-2024) for admission to UG and PG courses.
+	Students need to register for appearing in this examination by specifying the preferred time slots beforehand. For any further information regarding JET-2024,
+	students may contact the Admission</pr>
+<!--- End JET Exam--->
+<br><br><br>
+<!---Course--->
+	<table width="90%">
+	<tr>
+	<td>
+	<table border="0" width="110%" align="center">
+	<tr>
+	<td>
+		<font size="6" align="center"><b>Courses</b></font><br>
+		<hr>
+	</td>
+	</tr>
+	<tr>
+	<td>	
+		<img src="file:///C:/Users/Administrator/Pictures/cse-blog.jpg" height="140" width="55%" align="center"><br>
+		<font size="5" align="center"><b>Computer Science Engineering</b></font><br>
+		<font size="3" align="center"><u><b>An engineering course that combines computer science and engineering</b></u> <br>
+		to teach students how to design, implement, and manage computer systems. <br>
+		CSE courses cover topics like programming languages, algorithm analysis.
+		</font>
+	</td>	
+	<td>
+		<img src="file:///C:/Users/Administrator/Pictures/1671109855-b_pharm.jpg" height="135" width="55%" align="center"><br>
+		<font size="5" align="center"><b>Bachelor Of Pharmacy</b></font><br>
+		<font size="3" align"center">The Pharmacy field offers with lots of career opportunities<br> <u><b>(Career option after B.Pharm and D.Pharm).</b></u>
+		If you wish to make your carrier<br> in the field of pharmacy you can choose one of the several courses.<br>
+		Bachelor of Pharmecy is an undergraduate degree.
+		</font>
+
+	</td>
+	<td>
+		<img src="file:///C:/Users/Administrator/Pictures/Biotechnology-Career-Choice.jpg" height="140" width="55%" align="center"><br>
+		<font size="5" align="center"><b>Bio Technology</b></font><br>
+		<font size="3" align="center">Biotechnology draws on many different disciplines, including genetics, biochemistry, <br>and molecular biology. 
+		The development of genetic engineering in<br> the 1970s allowed for more 
+		<u><b>advanced modifications to organisms' genetic material.</b></u>
+		</font>
+	</td>
+	</tr>
+	</table>
+<!---End Course--->
+<br><br><br>
+<!---Contact Us--->
+	<table width="80%" align="center">
+	<tr>
+	<td>
+		<font size="6" align="left"><b>Contact Us</b></font><br>
+		<hr>
+	</td>
+	</tr>
+		<div class="Contact-info" align="center">
+		<p>+1 123 456 789</p>
+		<p>info@gmail.com</p>
+		<p>Nilgunj Road,Agarpara,<br>West Bengal,700109</p>
+		</div>
+<!---End Contact Us--->
+</body>
+</html>
